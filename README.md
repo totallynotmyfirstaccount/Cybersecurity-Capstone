@@ -93,7 +93,7 @@ enabling attackers to fingerprint the environment and launch targeted exploits, 
 
 ## 🧑‍💻 Author
 **Ali Alawami, Bakr Alrayes, Abdulmajeed Alghamdi**  
-Security Researcher | Application Security Enthusiast  
+Cohort 6 | Accenture Academy 
 
 ---
 
